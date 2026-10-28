@@ -47,3 +47,12 @@ git switch -c feature/melhorias
 
 ## Observações
 Projeto independente, não oficial. A agenda não exibe partidas em tempo real. Imagens ilustrativas são geradas com CSS, sem depender de arquivos externos.
+
+## Funcionalidades em JavaScript
+
+O projeto utiliza JavaScript para adicionar interatividade à página.
+
+- Menu de navegação responsivo.
+- Atualização automática do ano no rodapé.
+- Validação dos campos do formulário de contato.
+- Exibição de mensagens de confirmação e erro.
